@@ -1,0 +1,55 @@
+body {
+   
+    background-size: cover;	
+	background-attachment: fixed;
+}
+
+h1{
+	color: #008C49;
+	margin: 1% 0% 1% 0%;
+}
+.main-div{
+	position: relative;  
+	
+}
+.login_pannel{
+	color: #008C49;
+	position: absolute;
+    margin-top: 10%;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    background-color: #312E2E;
+}
+.registation_pannel{
+	color: #008C49;
+	position: absolute;
+    margin-top: 10px;
+    width: 100%;s
+    height: auto;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    background-color: #312E2E;
+}
+.rigistation-fild{
+	
+}
+.mid-col{
+	margin-top: 10px;
+	background-color:#312E2E; 
+	
+}
+a{
+	color: #fff;
+}
+.left-col{
+}
+tbody{
+	background-color:#312E2E;
+}
+col-xs-12->logodimention{
+
+}
